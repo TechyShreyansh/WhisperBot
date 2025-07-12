@@ -4,7 +4,7 @@
 [![](https://www.codefactor.io/repository/github/TechyShreyansh/Hide-Ts_Bot/badge/master)](https://www.codefactor.io/repository/github/TechyShreyansh/Hide-Ts_Bot/overview/master) 
 [![](https://img.shields.io/badge/telegram-@hidetsbot-blue)](https://t.me/hidetsbot) 
 [![](https://img.shields.io/badge/community-@hidethisbot__chat-blue)](https://t.me/Tech_Shreyansh2)
-[![](https://imgur.com/gYCmw0k)](#)
+[![](https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/hidetsbot.png)](#)
 
 ### How do I host it?
 Here is a brief guide you can follow to host your own Hide This Bot in case you are afraid of data leaks or for any other reason.
