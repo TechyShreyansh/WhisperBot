@@ -128,7 +128,7 @@ locale_en.info_message = (
     "📚 Need Help?\n\n"
     "• Got questions after reading? We're here to help!\n"
     "• Join our community or contact support\n\n"
-    "🌐 Public Discussion Group: @Tech_Shreyansh2\n"
+    "🌐 Public Group: @Tech_Shreyansh2\n"
     "🛎️ Direct Support: @AboutShreyansh\n"
     "⏰ Available 24/7"
 )
@@ -155,7 +155,7 @@ locale_de.info_message = (
     "📚 Brauchen Sie Hilfe?\n\n"
     "• Noch Fragen? Wir helfen Ihnen!\n"
     "• Treten Sie unserer Community bei oder kontaktieren Sie den Support\n\n"
-    "🌐 Öffentliche Diskussionsgruppe: @Tech_Shreyansh2\n"
+    "🌐 Öffentliche Gruppe: @Tech_Shreyansh2\n"
     "🛎️ Direkter Support: @AboutShreyansh\n"
     "⏰ Rund um die Uhr verfügbar"
 )
@@ -164,7 +164,7 @@ locale_it.info_message = (
     "📚 Hai bisogno di aiuto?\n\n"
     "• Hai domande dopo la lettura? Siamo qui per aiutarti!\n"
     "• Unisciti alla nostra community o contatta il supporto\n\n"
-    "🌐 Gruppo di discussione pubblica: @Tech_Shreyansh2\n"
+    "🌐 Gruppo Pubblico: @Tech_Shreyansh2\n"
     "🛎️ Supporto diretto: @AboutShreyansh\n"
     "⏰ Disponibile 24/7"
 )
@@ -173,7 +173,7 @@ locale_pt.info_message = (
     "📚 Precisa de ajuda?\n\n"
     "• Tem dúvidas após a leitura? Estamos aqui para ajudar!\n"
     "• Junte-se à nossa comunidade ou contacte o suporte\n\n"
-    "🌐 Grupo de Discussão Pública: @Tech_Shreyansh2\n"
+    "🌐 Grupo Pública: @Tech_Shreyansh2\n"
     "🛎️ Suporte Direto: @AboutShreyansh\n"
     "⏰ Disponível 24/7"
 )
