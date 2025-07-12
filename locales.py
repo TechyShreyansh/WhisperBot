@@ -128,8 +128,8 @@ locale_en.info_message = (
     "📚 Need Help?\n\n"
     "• Got questions after reading? We're here to help!\n"
     "• Join our community or contact support\n\n"
-    "🌐 Public Discussion Group:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Direct Support:\n@AboutShreyansh\n\n"
+    "🌐 Public Discussion Group: @Tech_Shreyansh2\n"
+    "🛎️ Direct Support: @AboutShreyansh\n"
     "⏰ Available 24/7"
 )
 
@@ -137,8 +137,8 @@ locale_ru.info_message = (
     "📚 Нужна помощь?\n\n"
     "• Остались вопросы? Мы поможем!\n"
     "• Присоединяйтесь к чату или напишите в поддержку\n\n"
-    "🌐 Публичный чат:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Поддержка:\n@AboutShreyansh\n\n"
+    "🌐 Публичный чат: @Tech_Shreyansh2\n"
+    "🛎️ Поддержка: @AboutShreyansh\n"
     "⏰ Круглосуточно"
 )
 
@@ -146,8 +146,8 @@ locale_uk.info_message = (
     "📚 Потрібна допомога?\n\n"
     "• Залишились питання? Ми допоможемо!\n"
     "• Приєднуйтесь до чату чи зверніться в підтримку\n\n"
-    "🌐 Публічний чат:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Підтримка:\n@AboutShreyansh\n\n"
+    "🌐 Публічний чат: @Tech_Shreyansh2\n"
+    "🛎️ Підтримка: @AboutShreyansh\n"
     "⏰ Цілодобово"
 )
 
@@ -155,8 +155,8 @@ locale_de.info_message = (
     "📚 Brauchen Sie Hilfe?\n\n"
     "• Noch Fragen? Wir helfen Ihnen!\n"
     "• Treten Sie unserer Community bei oder kontaktieren Sie den Support\n\n"
-    "🌐 Öffentliche Diskussionsgruppe:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Direkter Support:\n@AboutShreyansh\n\n"
+    "🌐 Öffentliche Diskussionsgruppe: @Tech_Shreyansh2\n"
+    "🛎️ Direkter Support: @AboutShreyansh\n"
     "⏰ Rund um die Uhr verfügbar"
 )
 
@@ -164,8 +164,8 @@ locale_it.info_message = (
     "📚 Hai bisogno di aiuto?\n\n"
     "• Hai domande dopo la lettura? Siamo qui per aiutarti!\n"
     "• Unisciti alla nostra community o contatta il supporto\n\n"
-    "🌐 Gruppo di discussione pubblica:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Supporto diretto:\n@AboutShreyansh\n\n"
+    "🌐 Gruppo di discussione pubblica: @Tech_Shreyansh2\n"
+    "🛎️ Supporto diretto: @AboutShreyansh\n"
     "⏰ Disponibile 24/7"
 )
 
@@ -173,8 +173,8 @@ locale_pt.info_message = (
     "📚 Precisa de ajuda?\n\n"
     "• Tem dúvidas após a leitura? Estamos aqui para ajudar!\n"
     "• Junte-se à nossa comunidade ou contacte o suporte\n\n"
-    "🌐 Grupo de Discussão Pública:\n@Tech_Shreyansh2\n\n"
-    "🛎️ Suporte Direto:\n@AboutShreyansh\n\n"
+    "🌐 Grupo de Discussão Pública: @Tech_Shreyansh2\n"
+    "🛎️ Suporte Direto: @AboutShreyansh\n"
     "⏰ Disponível 24/7"
 )
 
