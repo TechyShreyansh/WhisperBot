@@ -19,6 +19,7 @@ Here is a brief guide you can follow to host your own Hide This Bot in case you 
 - `API_TOKEN` – Telegram API bot token
 - `LOG_PATH` – path to the log-file (e. g. **logs/session_{time}.log**)
 - `DATABASE_URL` – connection URL of the database (see [examples](https://www.prisma.io/docs/reference/database-reference/connection-urls))
+- `PORT` - Add Port as `8080`
 
 ### Telegram input template
 > @hidetsbot sample text @user1 @user2 @user3
