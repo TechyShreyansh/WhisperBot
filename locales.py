@@ -196,12 +196,12 @@ locale_pt.too_long_description = '✂️ Opa! Muito longo! (Máx. 500 caracteres
 
 
 # NOT_ALLOWED
-locale_en.not_allowed = '🔐 You are not allowed to view this content.'
-locale_ru.not_allowed = '🔐 Вам запрещено просматривать этот контент.'
-locale_uk.not_allowed = '🔐 Вам заборонено переглядати цей контент.'
-locale_de.not_allowed = '🔐 Dir ist nicht gestattet, diesen Inhalt zu lesen.'
-locale_it.not_allowed = '🔐 Non hai il permesso per vedere questo messaggio.'
-locale_pt.not_allowed = '🔐 Você não tem permissão para visualizar este conteúdo.'
+locale_en.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
+locale_ru.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
+locale_uk.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
+locale_de.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
+locale_it.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
+locale_pt.not_allowed = '🔐 Why were you looking at this shit? Go away and do your own work, idiot.'
 
 # NOT_ACCESSIBLE
 locale_en.not_accessible = '⌛ This content is no longer accessible.'
