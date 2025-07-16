@@ -5,21 +5,21 @@
 [![](https://img.shields.io/badge/telegram-@hidetsbot-blue)](https://t.me/hidetsbot) 
 [![](https://img.shields.io/badge/community-@hidetsbot__chat-blue)](https://t.me/Tech_Shreyansh2)
 [![](https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/hidetsbot.png)](#)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/techyshreyansh/Hide-Ts-Bot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://github.com/techyshreyansh/Hide-Ts-Bot/graphs/commit-activity)
-[![GitHub Forks](https://img.shields.io/github/forks/techyshreyansh/Hide-Ts-Bot?&logo=github)](https://github.com/techyshreyansh/Hide-Ts-Bot)
-[![GitHub Stars](https://img.shields.io/github/stars/techyshreyansh/Hide-Ts-Bot?&logo=github)](https://github.com/techyshreyansh/Hide-Ts-Bot/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/techyshreyansh/Hide-Ts-Bot?&logo=github)](https://github.com/techyshreyansh/Hide-Ts-Bot)
-[![Contributors](https://img.shields.io/github/contributors/techyshreyansh/Hide-Ts-Bot?color=green)](https://github.com/techyshreyansh/Hide-Ts-Bot/graphs/contributors)
-[![License](https://img.shields.io/badge/License-GPL-pink)](https://github.com/techyshreyansh/Hide-Ts-Bot/blob/main/LICENSE)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/techyshreyansh/WhisperBot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://github.com/techyshreyansh/WhisperBot/graphs/commit-activity)
+[![GitHub Forks](https://img.shields.io/github/forks/techyshreyansh/WhisperBot?&logo=github)](https://github.com/techyshreyansh/WhisperBot)
+[![GitHub Stars](https://img.shields.io/github/stars/techyshreyansh/WhisperBot?&logo=github)](https://github.com/techyshreyansh/WhisperBot/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/techyshreyansh/WhisperBot?&logo=github)](https://github.com/techyshreyansh/WhisperBot)
+[![Contributors](https://img.shields.io/github/contributors/techyshreyansh/WhisperBot?color=green)](https://github.com/techyshreyansh/WhisperBot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-GPL-pink)](https://github.com/techyshreyansh/WhisperBot/blob/main/LICENSE)
 
 ### How do I host it?
 Here is a brief guide you can follow to host your own Hide This Bot in case you are afraid of data leaks or for any other reason.
 1. Create a new bot via [Botfather](https://t.me/botfather).
 2. Make your bot inline at Bot → Bot Settings → Inline Mode → Turn inline mode on.
 3. Optionally set up your custom inline placeholder (e. g. <i>sample text @user</i>) at Bot → Bot Settings → Inline Mode → Edit inline placeholder.
-5. [Fork](https://github.com/TechyShreyansh/Hide-Ts_Bot/fork) this repo.
-6. [Deploy](https://heroku.com/deploy?template=https://github.com/TechyShreyansh/Hide-Ts_Bot) it to Heroku (recomended) or some other hosting.
+5. [Fork](https://github.com/TechyShreyansh/WhisperBot/fork) this repo.
+6. [Deploy](https://heroku.com/deploy?template=https://github.com/TechyShreyansh/WhisperBot) it to Heroku (recomended) or some other hosting.
 7. Set up all required environment variables (aka config vars) at Heroku → Pipeline → App → Settings → Config Vars.
 
 ### Environment variables
