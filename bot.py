@@ -19,6 +19,8 @@ API_ID = int(os.environ['API_ID'])
 API_HASH = os.environ['API_HASH']
 SECRET_IMAGE_URL = "https://i.ibb.co/Sw1kb7W/Uploaded-6910445402.png"
 
+db = {}  # Message storage dictionary
+
 # Initialize Telegram client
 bot = TelegramClient(
     "Whisper",
