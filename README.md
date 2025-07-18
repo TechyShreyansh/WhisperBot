@@ -148,7 +148,7 @@ MIT License – free to use ✅
 
 ---
 
-**Developed with ❤️ by [Tech Shreyansh](https://t.me/Tech Shreyansh29)**  
+**Developed with ❤️ by [Tech Shreyansh](https://github.com/TechyShreyansh)**  
 
 ---
 s
