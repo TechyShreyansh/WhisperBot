@@ -1,1 +1,8 @@
 telethon
+python-dotenv
+Flask
+gunicorn
+aiohttp
+Jinja2
+werkzeug
+itsdangerous
